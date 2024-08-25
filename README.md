@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @ujjuengineer
-- 👀 I’m interested in dsa, web dev, ai ml
+- 👋 Hi, I’m Ujjwal sharma, @ujjuengineer
+- 👀 I’m interested in dsa, web dev, ai, machine learning 
 - 🌱 I’m currently learning dsa in c++
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on project accociated with web dev or system design.
 - 📫 How to reach me : email: ujjuengineer@gmail.com
 
 
