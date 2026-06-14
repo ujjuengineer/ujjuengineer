@@ -57,4 +57,11 @@ I'm also interested in Artificial Intelligence and Machine Learning and enjoy ex
 
 ---
 
+## Connect With Me
+📧 Email: ujjuengineer@gmail.com
+💼 LinkedIn: https://linkedin.com/in/ujjuengineer
+
+
+---
+
 Thanks for visiting my profile! 😇
