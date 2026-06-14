@@ -4,9 +4,9 @@
 
 I'm an Information Technology student at Madan Mohan Malaviya University of Technology (MMMUT), Gorakhpur.
 
-I enjoy building scalable backend systems, automating workflows, and exploring how software can solve real-world problems. My current focus is on backend development with Django and FastAPI while gradually diving deeper into DevOps and cloud-native technologies.
+My current focus is on backend development with Django and FastAPI while gradually diving deeper into DevOps and cloud-native technologies.
 
-Apart from backend engineering, I'm also interested in Artificial Intelligence and Machine Learning and enjoy exploring how intelligent systems can be integrated into practical applications.
+I'm also interested in Artificial Intelligence and Machine Learning and enjoy exploring how intelligent systems can be integrated into practical applications.
 
 ---
 
@@ -56,34 +56,5 @@ Apart from backend engineering, I'm also interested in Artificial Intelligence a
 * Open Source
 
 ---
-
-## Current Goals
-
-* Build production-grade backend applications
-* Learn modern DevOps practices
-* Contribute to open-source projects
-* Explore AI-powered applications
-* Become a well-rounded software engineer
-
----
-
-## Philosophy
-
-I believe the best way to learn technology is by building real projects, solving real problems, and staying curious.
-
-Every project teaches something new.
-
----
-
-### Let's Connect
-
-Always open to discussions about:
-
-* Backend Development
-* Django & FastAPI
-* DevOps
-* System Design
-* AI/ML
-* Open Source
 
 Thanks for visiting my profile! 😇
